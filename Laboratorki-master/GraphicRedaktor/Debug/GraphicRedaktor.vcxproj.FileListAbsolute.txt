@@ -1,0 +1,3 @@
+C:\Users\ivanu\OneDrive\Рабочий стол\Прога\Laboratorki-master\GraphicRedaktor\Debug\GraphicRedaktor.vcxproj.AssemblyReference.cache
+C:\Users\ivanu\OneDrive\Рабочий стол\Прога\Laboratorki-master\GraphicRedaktor\Debug\GraphicRedaktor.MyForm.resources
+C:\Users\ivanu\OneDrive\Рабочий стол\Прога\Laboratorki-master\GraphicRedaktor\Debug\GraphicRedaktor.vcxproj.GenerateResource.cache
